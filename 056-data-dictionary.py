@@ -180,9 +180,3 @@
 # | **feat_94**  | Net Income Flag                                         |
 # | **feat_95**  | Equity to Liability                                     |
 # 
-
-# ---
-# Copyright © 2022 WorldQuant University. This
-# content is licensed solely for personal use. Redistribution or
-# publication of this material is strictly prohibited.
-# 
